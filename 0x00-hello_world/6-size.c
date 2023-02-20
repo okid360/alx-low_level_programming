@@ -1,7 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
+ * main - Print out sizes of data in C
  *
  * Return: Always 0 (Success)
  */
